@@ -22,6 +22,8 @@ header {
   background-color: var(--secondary-color);
 }
 
+
+
 .search {
   background-color: transparent;
   border: 2px solid var(--primary-color);
